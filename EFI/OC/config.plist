@@ -8,7 +8,7 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string></string>
+				<string>Reame ‘Radeon Pro 560X’ to ‘Radeon Pro Vega 20’</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -21,7 +21,7 @@
 				<key>All</key>
 				<true/>
 				<key>Comment</key>
-				<string></string>
+				<string>Diskable SSDT-PEG0GFX0</string>
 				<key>Enabled</key>
 				<true/>
 				<key>OemTableId</key>
